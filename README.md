@@ -1,2 +1,4 @@
 # spider_01
-get something interesting
+# get something interesting
+
+print('hello')
